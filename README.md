@@ -6,7 +6,7 @@ CloudWatchLogsにメッセージを書き込む。
 
 https://github.com/yamadatt/poc-sqs
 
-##　準備
+## 準備
 
 ```bash
 go get github.com/aws/aws-sdk-go-v2
